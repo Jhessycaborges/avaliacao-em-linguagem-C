@@ -105,7 +105,7 @@ Para compilar os programas, utilize um compilador C, como o `gcc`.
 
 ### Exemplo de compilação
 ```bash
-gcc questao1.c -o questao1
-gcc questao2.c -o questao2
-gcc questao3.c -o questao3
-gcc questao4.c -o questao4
+gcc media_situacao_aluno.c -o media
+gcc numeros_pares_intervalo.c -o pares
+gcc analise_lista_valores.c -o analise
+gcc simulacao_caixa_eletronico.c -o caixa
