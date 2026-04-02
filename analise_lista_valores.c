@@ -1,4 +1,4 @@
-// Quest„o 3 - An·lise de Lista de Valores
+// Quest√£o 3 - An√°lise de Lista de Valores
 
 #include <stdio.h>
 
