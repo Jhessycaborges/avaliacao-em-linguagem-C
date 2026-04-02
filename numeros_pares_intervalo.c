@@ -1,4 +1,4 @@
-// Quest„o 2 - Numeros Pares em um Intervalo
+// Quest√£o 2 - Numeros Pares em um Intervalo
 
 #include <stdio.h>
 
