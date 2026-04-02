@@ -1,4 +1,4 @@
-// Quest„o 1: C·lculo de MÈdia e SituaÁ„o do Aluno
+// Quest√£o 1: C√°lculo de M√©dia e Situa√ß√£o do Aluno
 
 #include <stdio.h>
 
