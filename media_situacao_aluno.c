@@ -1,4 +1,6 @@
-// Questão 1: Cálculo de Média e Situação do Aluno
+// Quest�o 1 � Calculo de Media e Situacao do Aluno
+// Autor: Jhessyca Borges
+// Disciplina: Logica de Programacao
 
 #include <stdio.h>
 

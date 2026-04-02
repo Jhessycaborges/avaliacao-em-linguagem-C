@@ -1,4 +1,6 @@
-// Quest√£o 3 - An√°lise de Lista de Valores
+// Quest„o 3 ñ Analise de Lista de Valores
+// Autor: Jhessyca Borges
+// Disciplina: Logica de Programacao
 
 #include <stdio.h>
 

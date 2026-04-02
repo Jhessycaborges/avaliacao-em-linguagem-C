@@ -1,4 +1,6 @@
-// Questão 4 - Simulação de Caixa Eletrônico
+// Quest�o 4 � Simulacao de Caixa Eletronico
+// Autor: Jhessyca Borges
+// Disciplina: Logica de Programacao
 
 #include <stdio.h>
 

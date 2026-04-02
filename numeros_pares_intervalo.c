@@ -1,4 +1,6 @@
-// Quest√£o 2 - Numeros Pares em um Intervalo
+// Quest„o 2 ñ Numeros Pares em um Intervalo
+// Autor: Jhessyca Borges
+// Disciplina: Logica de Programacao
 
 #include <stdio.h>
 
