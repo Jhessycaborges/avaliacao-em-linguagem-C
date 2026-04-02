@@ -1,4 +1,4 @@
-// Quest„o 4 - SimulaÁ„o de Caixa EletrÙnico
+// Quest√£o 4 - Simula√ß√£o de Caixa Eletr√¥nico
 
 #include <stdio.h>
 
